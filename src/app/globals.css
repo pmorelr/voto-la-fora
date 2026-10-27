@@ -1,0 +1,186 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* O Tailwind procura classes em todos os arquivos do projeto. Os materiais de divulgação não são do site e têm
+   scripts enormes de uma linha só (o mapa-múndi do vídeo, 3,5 MB), que travavam a compilação. */
+@source not "../../divulgacao";
+
+@custom-variant dark (@media (prefers-color-scheme: dark));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-heading: var(--font-serif);
+  --font-serif: var(--font-serif);
+  --color-brand: var(--brand);
+  --color-brand-deep: var(--brand-deep);
+  --color-brand-text: var(--brand-text);
+  --color-brand-block: var(--brand-block);
+  --color-brand-block-foreground: var(--brand-block-foreground);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+/*
+ * Identidade visual (08/10/2026): "Jornal" em grafite quente, sem vermelho. Papel creme e cinzas puxados
+ * pro marrom no modo claro; grafite quase preto no escuro. Títulos em Newsreader, texto em Source Sans 3.
+ * Sem cor de partido: nada de vermelho, verde, amarelo ou azul na marca.
+ */
+:root {
+  --background: #fbfaf8;
+  --foreground: #1f1d1b;
+  --card: #ffffff;
+  --card-foreground: #1f1d1b;
+  --popover: #ffffff;
+  --popover-foreground: #1f1d1b;
+  --primary: #2b2825;
+  --primary-foreground: #fbfaf8;
+  --secondary: #f1eeea;
+  --secondary-foreground: #1f1d1b;
+  --muted: #f1eeea;
+  --muted-foreground: #6b6560;
+  --accent: #ece8e3;
+  --accent-foreground: #2b2825;
+  --destructive: #3a3633;
+  --border: #e6e2dd;
+  --input: #d6d0c9;
+  --ring: #6b6560;
+  --brand: #2b2825;
+  --brand-text: #4a4540;
+  --brand-deep: #45403b;
+  --brand-block: #2b2825;
+  --brand-block-foreground: #fbfaf8;
+  --chart-1: #2b2825;
+  --chart-2: #6b6560;
+  --chart-3: #9a938c;
+  --chart-4: #e6e2dd;
+  --chart-5: #1f1d1b;
+  --radius: 0.375rem;
+  --sidebar: #f1eeea;
+  --sidebar-foreground: #1f1d1b;
+  --sidebar-primary: #2b2825;
+  --sidebar-primary-foreground: #fbfaf8;
+  --sidebar-accent: #ece8e3;
+  --sidebar-accent-foreground: #2b2825;
+  --sidebar-border: #e6e2dd;
+  --sidebar-ring: #6b6560;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #171513;
+    --foreground: #f3f0ec;
+    --card: #24211d;
+    --card-foreground: #f3f0ec;
+    --popover: #24211d;
+    --popover-foreground: #f3f0ec;
+    --primary: #f3f0ec;
+    --primary-foreground: #171513;
+    --secondary: #1e1b18;
+    --secondary-foreground: #f3f0ec;
+    --muted: #1e1b18;
+    --muted-foreground: #aaa39b;
+    --accent: #2c2824;
+    --accent-foreground: #f3f0ec;
+    --destructive: #d9d3cc;
+    --border: #36312c;
+    --input: #3e3833;
+    --ring: #aaa39b;
+    --brand: #f3f0ec;
+    --brand-text: #d9d3cc;
+    --brand-deep: #d9d3cc;
+    --brand-block: #f3f0ec;
+    --brand-block-foreground: #171513;
+    --chart-1: #f3f0ec;
+    --chart-2: #aaa39b;
+    --chart-3: #7d766f;
+    --chart-4: #36312c;
+    --chart-5: #f3f0ec;
+    --sidebar: #1e1b18;
+    --sidebar-foreground: #f3f0ec;
+    --sidebar-primary: #f3f0ec;
+    --sidebar-primary-foreground: #171513;
+    --sidebar-accent: #2c2824;
+    --sidebar-accent-foreground: #f3f0ec;
+    --sidebar-border: #36312c;
+    --sidebar-ring: #aaa39b;
+    color-scheme: dark;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  button:not(:disabled), [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  html {
+    @apply font-sans;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-serif), Georgia, serif;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+  }
+  .maplibregl-ctrl-attrib {
+    font-size: 11px;
+  }
+  p {
+    text-wrap: pretty;
+  }
+}
+/* Texto longo das páginas institucionais (Markdown). */
+.prose-site { font-size: 1.0625rem; line-height: 1.7; }
+.prose-site h2 { font-size: 1.5rem; margin: 2rem 0 0.75rem; }
+.prose-site h3 { font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+.prose-site p, .prose-site ul, .prose-site ol { margin: 0 0 1rem; }
+.prose-site ul { list-style: disc; padding-left: 1.25rem; }
+.prose-site ol { list-style: decimal; padding-left: 1.25rem; }
+.prose-site a { color: var(--brand-text); text-decoration: underline; }
+.prose-site strong { font-weight: 700; }
+.prose-site .nota-final { font-size: 0.875rem; line-height: 1.6; opacity: 0.6; }
+.prose-site .nota-final p { margin: 0 0 0.5rem; }
+.prose-site table { width: 100%; border-collapse: collapse; margin: 0 0 1rem; font-size: 0.95rem; }
+.prose-site th, .prose-site td { border: 1px solid var(--border); padding: 0.4rem 0.6rem; text-align: left; vertical-align: top; }

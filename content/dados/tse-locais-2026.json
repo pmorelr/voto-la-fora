@@ -1,0 +1,1621 @@
+{
+ "fonte": "TSE, dados abertos, \"Eleitorado por local de votação 2026\" (https://cdn.tse.jus.br/estatistica/sead/odsele/eleitorado_locais_votacao/eleitorado_local_votacao_2026.zip), UF ZZ, 2º turno",
+ "gerado_pelo_tse_em": "08/10/2026 06:27:41",
+ "turno": 2,
+ "municipios": {
+  "ABIDJÃ": [
+   {
+    "local": "CHANCELARIA DA EMBAIXADA DO BRASIL EM ABIDJÃ",
+    "endereco": "COCODY AMBASSADE VAL DOYEN II, 6 RUE SERPENTE",
+    "eleitores": 91,
+    "secoes": 1
+   }
+  ],
+  "ABU DHABI": [
+   {
+    "local": "TWO SEASONS HOTEL",
+    "endereco": "SHEIKH ZAYED RD - AL SAFOUH SECOND - DUBAI INTERNET CITY",
+    "eleitores": 1827,
+    "secoes": 3
+   },
+   {
+    "local": "CHANCELARIA DA EMBAIXADA EM ABU DHABI",
+    "endereco": "AL BATEEN GARDENS, C3 TOWER, ABU DHABI, PO BOX 3027",
+    "eleitores": 1168,
+    "secoes": 2
+   }
+  ],
+  "ABUJA": [
+   {
+    "local": "ABUJA - NIGÉRIA",
+    "endereco": "EMBAIXADA DO BRASIL EM ABUJA",
+    "eleitores": 3,
+    "secoes": 1
+   }
+  ],
+  "ACCRA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM ACRA",
+    "endereco": "TEMPLESI LANE 1, AIRPORT RESIDENTIAL AREA, ACRA, GANA",
+    "eleitores": 43,
+    "secoes": 1
+   }
+  ],
+  "ADIS ABEBA": [
+   {
+    "local": "ADIS ABEBA",
+    "endereco": "EMBAIXADA DO BRASIL  EM ADIS ABEBA",
+    "eleitores": 3,
+    "secoes": 1
+   }
+  ],
+  "AMÃ": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM AMÃ",
+    "endereco": "17, SULEIMAN YOUSIF SUKKAR ST, ABDOUN, AMÃ, JORDAN",
+    "eleitores": 1492,
+    "secoes": 2
+   }
+  ],
+  "AMSTERDÃ": [
+   {
+    "local": "CENTRO DE CONVENÇÕES DO HOTEL NOVOTEL AMSTERDAM CITY",
+    "endereco": "EUROPABOULEVARD 10, 1083 AD, AMSTERDÃ, PAÍSES BAIXOS",
+    "eleitores": 12806,
+    "secoes": 17
+   }
+  ],
+  "ANCARA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM ANCARA",
+    "endereco": "RESID GALIP CAD NO 69/A - GOP -  06700 - ANKARA - TÜRKIYE",
+    "eleitores": 77,
+    "secoes": 1
+   }
+  ],
+  "ARGEL": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM ARGEL",
+    "endereco": "55, BIS CHEMIN CHEIKH BACHIR EL IBRAHIMI, EL BIAR, ARGEL, ARGÉLIA",
+    "eleitores": 49,
+    "secoes": 1
+   }
+  ],
+  "ARTIGAS": [
+   {
+    "local": "VICE-CONSULADO DO BRASIL EM ARTIGAS",
+    "endereco": "AVENIDA LECUEDER, 432 - ARTIGAS-URUGUAI",
+    "eleitores": 611,
+    "secoes": 1
+   }
+  ],
+  "ASSUNÇÃO": [
+   {
+    "local": "CONSULADO DO BRASIL EM ASSUNÇÃO",
+    "endereco": "AV. MARISCAL ESTIGARRIBIA, 1856. CIUDAD NUEVA",
+    "eleitores": 2212,
+    "secoes": 4
+   }
+  ],
+  "ASTANA": [
+   {
+    "local": "ASTANA KAZAQUISTÃO",
+    "endereco": "EMBAIXADA DO BRASIL EM ASTANA KAZAQUISTÃO",
+    "eleitores": 13,
+    "secoes": 1
+   }
+  ],
+  "ATENAS": [
+   {
+    "local": "EMBAIXADA EM ATENAS - CASA DO BRASIL",
+    "endereco": "AVENIDA VASILISSIS SOFIAS, N 23 - TERREO",
+    "eleitores": 1211,
+    "secoes": 2
+   }
+  ],
+  "ATLANTA": [
+   {
+    "local": "EAGLES ARENA",
+    "endereco": "6616 NEW PEACHTREE RD, DORAVILLE, GA - 30340",
+    "eleitores": 16321,
+    "secoes": 22
+   }
+  ],
+  "BAGDÁ": [
+   {
+    "local": "BAGDÁ",
+    "endereco": "EMBAIXADA DO BRASIL EM BAGDÁ",
+    "eleitores": 10,
+    "secoes": 1
+   }
+  ],
+  "BAKU": [
+   {
+    "local": "BAKU",
+    "endereco": "EMBAIXADA DO BRASIL EM BAKU",
+    "eleitores": 5,
+    "secoes": 1
+   }
+  ],
+  "BAMAKO": [
+   {
+    "local": "BAMAKO",
+    "endereco": "EMBAIXADA DO BRASIL EM BAMAKO",
+    "eleitores": 5,
+    "secoes": 1
+   }
+  ],
+  "BANGKOK": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BANGKOK",
+    "endereco": "1168/101 LUMPINI TOWER RAMA IV RD 34F THUNG MAHA MEK SATHON 101120",
+    "eleitores": 311,
+    "secoes": 1
+   }
+  ],
+  "BARCELONA": [
+   {
+    "local": "SEMINARI CONCILIAR DE BARCELONA",
+    "endereco": "CARRER DE LA DIPUTACIÓ, 231, EIXAMPLE, 08007, BARCELONA",
+    "eleitores": 17298,
+    "secoes": 22
+   }
+  ],
+  "BAREIN": [
+   {
+    "local": "AQUA VISTA BAHRAIN",
+    "endereco": "BUILDING 2685, ROAD 4650, BLOCK 346, AL SEEF, KINGDOM OF BAHRAIN",
+    "eleitores": 69,
+    "secoes": 1
+   }
+  ],
+  "BEIRUTE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BEIRUTE - M1 BUILDING",
+    "endereco": "OMAR DAOUK STREET, M1 BUILDING, 4TH FLOOR, DOWNTOWN BEIRUT, LEBANON",
+    "eleitores": 5679,
+    "secoes": 8
+   },
+   {
+    "local": "VALE DO BEKAA (CONSULADO HONORÁRIO DO BRASIL)",
+    "endereco": "RUE BOULEVARD, KAB ELIAS, BEKAA, LÍBANO",
+    "eleitores": 3248,
+    "secoes": 5
+   }
+  ],
+  "BELGRADO": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BELGRADO",
+    "endereco": "KRUNSKA 14, 11000, BELGRADO, SÉRVIA",
+    "eleitores": 115,
+    "secoes": 1
+   }
+  ],
+  "BELMOPAN": [
+   {
+    "local": "BELMOPAN",
+    "endereco": "CONSULADO BRASILEIRO",
+    "eleitores": 13,
+    "secoes": 1
+   }
+  ],
+  "BERLIM": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BERLIM",
+    "endereco": "WALLSTRASSE 57 - 10179 BERLIM - ALEMANHA",
+    "eleitores": 10487,
+    "secoes": 14
+   },
+   {
+    "local": "HAMBURGO, STADTTEILSCHULE AM HAFEN",
+    "endereco": "NEUSTÄDTER STRASSE 60, 20355 HAMBURGO",
+    "eleitores": 4654,
+    "secoes": 6
+   }
+  ],
+  "BISSAU": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BISSAU",
+    "endereco": "RUA SÃO TOMÉ, S.N., CP 29",
+    "eleitores": 89,
+    "secoes": 1
+   }
+  ],
+  "BOGOTÁ": [
+   {
+    "local": "EMBAIXADA EM BOGOTÁ",
+    "endereco": "CALLE 93, 14-20, PISO 8",
+    "eleitores": 1512,
+    "secoes": 2
+   }
+  ],
+  "BOSTON": [
+   {
+    "local": "SALEMWOOD SCHOOL",
+    "endereco": "529 SALEM ST, MALDEN, MA 02148",
+    "eleitores": 34919,
+    "secoes": 45
+   },
+   {
+    "local": "ST TARCISUS PARISH",
+    "endereco": "562 WAVERLY ST, FRAMINGHAM, MA 01702",
+    "eleitores": 18487,
+    "secoes": 24
+   }
+  ],
+  "BRATISLAVA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BRATISLAVA",
+    "endereco": "PALISÁDY 47, 1 ANDAR - 81106 - BRATISLAVA - ESLOVÁQUIA",
+    "eleitores": 132,
+    "secoes": 1
+   }
+  ],
+  "BRAZZAVILLE": [
+   {
+    "local": "BRAZZAVILLE CONGO",
+    "endereco": "EMBAIXADA DO BRASIL EM BRAZZAVILLE",
+    "eleitores": 2,
+    "secoes": 1
+   }
+  ],
+  "BRIDGETOWN": [
+   {
+    "local": "BRIDGETOWN",
+    "endereco": "EMBAIXADA DO BRASIL EM BRIDGETOWN",
+    "eleitores": 22,
+    "secoes": 1
+   }
+  ],
+  "BRUXELAS": [
+   {
+    "local": "BRUXELAS - PREFEITURA DE SAINT-GILLES (HÔTEL DE VILLE)",
+    "endereco": "PLACE MAURICE VAN MEENEN 39, SAINT-GILLES, 1060",
+    "eleitores": 8650,
+    "secoes": 12
+   },
+   {
+    "local": "PREFEITURA DE ESCH-SUR-ALZETTE (LUXEMBURGO)",
+    "endereco": "HÔTEL DE VILLE, L-4002, ESCH-SUR-ALZETTE, LUXEMBURGO",
+    "eleitores": 1444,
+    "secoes": 2
+   }
+  ],
+  "BUCARESTE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BUCARESTE",
+    "endereco": "STRADA CLUCERULUI 78-80,  4. ANDAR - SETOR 1,  BUCARESTE, ROMÊNIA",
+    "eleitores": 130,
+    "secoes": 1
+   }
+  ],
+  "BUDAPESTE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BUDAPESTE",
+    "endereco": "SZABADSÁG TÉR 7 BANK CENTER TORRE CITI, 9 ANDAR, BUDAPESTE, HUNGRIA",
+    "eleitores": 813,
+    "secoes": 2
+   }
+  ],
+  "BUENOS AIRES": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM BUENOS AIRES",
+    "endereco": "CERRITO, 1350, BUENOS AIRES, ARGENTINA",
+    "eleitores": 11873,
+    "secoes": 15
+   }
+  ],
+  "CAIENA": [
+   {
+    "local": "HOTEL MERCURE ROYAL AMAZONIA",
+    "endereco": "45, RUE DE L'ARA BLEU - CAIENA",
+    "eleitores": 3117,
+    "secoes": 5
+   }
+  ],
+  "CAIRO": [
+   {
+    "local": "EMBAIXADA DO BRASIL NO CAIRO - EGITO",
+    "endereco": "NILE CITY TOWERS - NORTH TOWER - 18TH FLOOR 2005-C CORNICHE EL NIL",
+    "eleitores": 204,
+    "secoes": 1
+   }
+  ],
+  "CAMBERRA": [
+   {
+    "local": "MELBOURNE - DRILL HALL, MULTICULTURAL HUB",
+    "endereco": "26 THERRY ST, MELBOURNE ,VIC 3000 AUSTRALIA",
+    "eleitores": 2774,
+    "secoes": 4
+   },
+   {
+    "local": "PERTH - HILLVIEW INTERCULTURAL COMMUNITY CENTRE",
+    "endereco": "1-3 HILL VIEW PLACE, BENTLEY, PERTH, WA 6102 AUSTRALIA",
+    "eleitores": 1878,
+    "secoes": 3
+   },
+   {
+    "local": "EMBAIXADA EM CAMBERRA",
+    "endereco": "19 FORSTER CRESCENT, YARRALUMLA, CAMBERRA, ACT 2600 AUSTRALIA",
+    "eleitores": 1609,
+    "secoes": 3
+   }
+  ],
+  "CANTÃO": [
+   {
+    "local": "CONSULADO-GERAL DO BRAZIL EM CANTÃO",
+    "endereco": "HUAXIA ROAD 10 R E F CENTER, SALA 1403  ZHUJIANG NEW TOWN, TIANHE DIST",
+    "eleitores": 422,
+    "secoes": 1
+   }
+  ],
+  "CARACAS": [
+   {
+    "local": "EMBAIXADA EM CARACAS",
+    "endereco": "CENTRO GERENCIAL MOHEDANO PISO 6 LA CASTELLANA, CARACAS",
+    "eleitores": 994,
+    "secoes": 3
+   }
+  ],
+  "CASTRIES": [
+   {
+    "local": "CASTRIES E OUTROS LOCAIS DE SANTA LÚCIA",
+    "endereco": "EMBAIXADA DO BRASIL EM CASTRIES",
+    "eleitores": 7,
+    "secoes": 1
+   }
+  ],
+  "CHICAGO": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL CHICAGO",
+    "endereco": "401 NORTH MICHIGAN AVENUE, SUITE 425, CHICAGO, ILLINOIS, ESTADOS UNIDO",
+    "eleitores": 12480,
+    "secoes": 18
+   }
+  ],
+  "CHUY": [
+   {
+    "local": "CHUÍ",
+    "endereco": "CONSULADO EM CHUÍ-CALLE TITO FERNANDEZ 147, CHUY, ROCHA",
+    "eleitores": 27,
+    "secoes": 1
+   }
+  ],
+  "CIDADE DO CABO": [
+   {
+    "local": "CONSULADO-GERAL NA CIDADE DO CABO",
+    "endereco": "7 BREE STREET, TOUCHSTONE HOUSE, 9 ANDAR, UNIDADE 903, CITY CENTER",
+    "eleitores": 355,
+    "secoes": 1
+   }
+  ],
+  "CIUDAD DEL ESTE": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM CIUDAD DEL ESTE",
+    "endereco": "CALLE PAMPLIEGA 205, C/ PA'I PEREZ",
+    "eleitores": 5102,
+    "secoes": 7
+   }
+  ],
+  "CIUDAD GUAYANA": [
+   {
+    "local": "EMBAIXADA EM CARACAS",
+    "endereco": "CENTRO GERENCIAL MOHEDANO PISO 6 LA CASTELLANA, CARACAS",
+    "eleitores": 72,
+    "secoes": 1
+   }
+  ],
+  "COBIJA": [
+   {
+    "local": "COBIJA",
+    "endereco": "CONSULADO DO BRASIL EM COBIJA",
+    "eleitores": 1,
+    "secoes": 1
+   }
+  ],
+  "COCHABAMBA": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM COCHABAMBA",
+    "endereco": "CALLE ALCIBIADES GUZMAN, 642, QUERU QUERU, COCHABAMBA, BOLÍVIA",
+    "eleitores": 416,
+    "secoes": 1
+   }
+  ],
+  "COLOMBO": [
+   {
+    "local": "COLOMBO",
+    "endereco": "EMBAIXADA DO BRASIL EM COLOMBO (MALDIVAS)",
+    "eleitores": 12,
+    "secoes": 1
+   }
+  ],
+  "CONACRI": [
+   {
+    "local": "CONACRI",
+    "endereco": "EMBAIXADA DO BRASIL EM CONACRI",
+    "eleitores": 5,
+    "secoes": 1
+   }
+  ],
+  "CONCEPCIÓN": [
+   {
+    "local": "VICE-CONSULADO DO BRASIL EM EM CONCEPCIÓN",
+    "endereco": "AV PRES. FRANCO,972",
+    "eleitores": 78,
+    "secoes": 1
+   }
+  ],
+  "COPENHAGUE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM COPENHAGUE",
+    "endereco": "JENS KOFODS GADE 1, ST. TH",
+    "eleitores": 2863,
+    "secoes": 4
+   }
+  ],
+  "CÓRDOBA": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM CÓRDOBA",
+    "endereco": "AV. AMBROSIO OLMOS 615 BAIRRO NUEVA CÓRDOBA, CÓRDOBA",
+    "eleitores": 926,
+    "secoes": 2
+   }
+  ],
+  "COTONOU": [
+   {
+    "local": "COTONOU",
+    "endereco": "EMBAIXADA DO BRASIL EM COTONOU",
+    "eleitores": 8,
+    "secoes": 1
+   }
+  ],
+  "DACAR": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM DACAR",
+    "endereco": "ROUTE DE LA CORNICHE, LOT N. 2, MERMOZ, DACAR",
+    "eleitores": 133,
+    "secoes": 1
+   }
+  ],
+  "DACCA": [
+   {
+    "local": "DACCA E OUTROS LOCAIS DE BANGLADESH",
+    "endereco": "EMBAIXADA DO BRASIL EM DACCA",
+    "eleitores": 1,
+    "secoes": 1
+   }
+  ],
+  "DAMASCO": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM DAMASCO",
+    "endereco": "RUA AHMAD AL-ABED, 10 PRÉDIO SHABAN, MEZZEH OESTE",
+    "eleitores": 776,
+    "secoes": 1
+   }
+  ],
+  "DAR ES SALAAM": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM DAR ES SALAAM",
+    "endereco": "PLOT N. 274, HAILE SELASSIE ROAD, R-SQUARE BUILDING, GROUND FLOOR",
+    "eleitores": 34,
+    "secoes": 1
+   }
+  ],
+  "DÍLI": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM DÍLI",
+    "endereco": "RUA KARKETU MOTA-AIN N. 7,  BAIRRO FAROL, 157, TIMOR-LESTE",
+    "eleitores": 90,
+    "secoes": 1
+   }
+  ],
+  "DOHA": [
+   {
+    "local": "CHANCELARIA DA EMBAIXADA DO BRASIL EM DOHA",
+    "endereco": "BUILDING 19, SAHA 131, HAZM AL MARKHIYA ST, DOHA",
+    "eleitores": 764,
+    "secoes": 1
+   }
+  ],
+  "DUBLIN": [
+   {
+    "local": "ROYAL DUBLIN SOCIETY - HALL 2",
+    "endereco": "RDS, MERRION ROAD, BALLSBRIDGE, DUBLIN 4 D04 AK83 - HALL 2",
+    "eleitores": 16794,
+    "secoes": 28
+   }
+  ],
+  "EDIMBURGO": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM EDIMBURGO",
+    "endereco": "19A CANNING STREET CALEDONIAN EXCHANGE TÉRREO EDIMBURGO CÓDIGO POSTAL",
+    "eleitores": 4459,
+    "secoes": 6
+   }
+  ],
+  "ENCARNACIÓN": [
+   {
+    "local": "VICE-CONSULADO DO BRASIL EM ENCARNACIÓN",
+    "endereco": "CALLE JORGE MEMMEL, 452 (FRENTE A LA TERMINAL), ENCARNACIÓN, PARAGUAY",
+    "eleitores": 282,
+    "secoes": 1
+   }
+  ],
+  "ESTOCOLMO": [
+   {
+    "local": "ESTOCOLMO - STOCKHOLMS UNIVERSITET. AULA MAGNA CONFERENCE FACILITY",
+    "endereco": "FRESCATIVAGEN 6 (TAXI ENTRANCE) / UNIVERSITETSGANGEN 11 (MAIN ENTRANCE",
+    "eleitores": 3782,
+    "secoes": 5
+   },
+   {
+    "local": "GOTEMBURGO - UNGDOMENS HUS 1200 KVADRAT",
+    "endereco": "MANDOLINGATAN 47, 42145, VASTRA FROLUNDA, GOTEMBURGO",
+    "eleitores": 1112,
+    "secoes": 2
+   }
+  ],
+  "FARO": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM FARO",
+    "endereco": "LARGO DOM MARCELINO FRANCO, 2",
+    "eleitores": 8288,
+    "secoes": 11
+   }
+  ],
+  "FRANKFURT": [
+   {
+    "local": "FRANKFURT - VOLKSHOCHSCHULE FRANKFURT AM MAIN",
+    "endereco": "SONNEMANNSTRASSE 13 - 60314 - FRANKFURT AM MAIN",
+    "eleitores": 7417,
+    "secoes": 13
+   },
+   {
+    "local": "COLÔNIA - CONGRESS-CENTRUM NORD DER KOELNMESSE",
+    "endereco": "DEUTZ-MÜLHEIMER STR. 111 50679 KÖLN",
+    "eleitores": 5582,
+    "secoes": 8
+   }
+  ],
+  "GABORONE": [
+   {
+    "local": "GABORONE BOTSWANA",
+    "endereco": "EMBAIXADA DO BRASIL EM GABORONE",
+    "eleitores": 10,
+    "secoes": 1
+   }
+  ],
+  "GENEBRA": [
+   {
+    "local": "PALEXPO",
+    "endereco": "ROUTE FRANÇOIS-PEYROT 30 (1218) LE GRAND-SACONNEX, GENEVE",
+    "eleitores": 11914,
+    "secoes": 15
+   }
+  ],
+  "GEORGETOWN": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM GEORGETOWN",
+    "endereco": "308 CHURCH STREET, QUEENSTOWN, GEORGETOWN, GUIANA",
+    "eleitores": 178,
+    "secoes": 1
+   }
+  ],
+  "GUATEMALA": [
+   {
+    "local": "EMBAIXADA DO BRASIL NA GUATEMALA",
+    "endereco": "2A. AVENIDA, 20-13 - ZONA 10, CIDADE DA GUATEMALA, GUATEMALA",
+    "eleitores": 285,
+    "secoes": 1
+   }
+  ],
+  "HAMAMATSU": [
+   {
+    "local": "HAMAMATSU ACT CITY - EXHIBITION AND EVENT HALL",
+    "endereco": "3 CHOME 12-1 CHUO CHUO-KU HAMAMATSU SHIZUOKA",
+    "eleitores": 13734,
+    "secoes": 18
+   }
+  ],
+  "HANÓI": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM HANÓI",
+    "endereco": "44B LY THUONG KIET, HCO BUILDING, 4TH FLOOR, SUITE 4-01, HANOI, VIETNA",
+    "eleitores": 82,
+    "secoes": 1
+   }
+  ],
+  "HARARE": [
+   {
+    "local": "HARARE",
+    "endereco": "EMBAIXADA DO BRASIL",
+    "eleitores": 7,
+    "secoes": 1
+   }
+  ],
+  "HARTFORD": [
+   {
+    "local": "CONSULADO-GERAL EM HARTFORD",
+    "endereco": "ONE CONSTITUTION PLAZA, HARTFORD, CT 06103",
+    "eleitores": 9190,
+    "secoes": 12
+   }
+  ],
+  "HAVANA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM HAVANA",
+    "endereco": "AV. 43, NR. 1418, ENTRE 14 E 18 - ALTURAS DE MIRAMAR, MUNICÍPIO PLAYA",
+    "eleitores": 92,
+    "secoes": 1
+   }
+  ],
+  "HELSINQUE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM HELSINQUE",
+    "endereco": "ITÄINEN PUISTOTIE 4 B 1, 00140 HELSINQUE, FINLÂNDIA",
+    "eleitores": 1284,
+    "secoes": 2
+   }
+  ],
+  "HONG KONG": [
+   {
+    "local": "CONSULADO-GERAL EM HONG KONG",
+    "endereco": "20/F, 30 HARBOUR ROAD, HONG KONG, CHINA",
+    "eleitores": 671,
+    "secoes": 1
+   }
+  ],
+  "HOUSTON": [
+   {
+    "local": "NORIS CONFERENCE CENTER/CITY CENTER",
+    "endereco": "816 TOWN AND COUNTRY BLVD 210, HOUSTON, TEXAS - 77024",
+    "eleitores": 13004,
+    "secoes": 18
+   },
+   {
+    "local": "PLANO EVENT CENTER",
+    "endereco": "DALLAS - 2000 EAST SPRING CREEK PARKWAY",
+    "eleitores": 3461,
+    "secoes": 5
+   }
+  ],
+  "IAUNDÊ": [
+   {
+    "local": "IAUNDÊ",
+    "endereco": "EMBAIXADA DO BRASIL",
+    "eleitores": 14,
+    "secoes": 1
+   }
+  ],
+  "IEREVAN": [
+   {
+    "local": "IEREVAN",
+    "endereco": "CONSULADO BRASILEIRO NA ARMENIA",
+    "eleitores": 13,
+    "secoes": 1
+   }
+  ],
+  "IQUITOS": [
+   {
+    "local": "IQUITOS",
+    "endereco": "CONSULADO DO BRASIL EM IQUITOS",
+    "eleitores": 17,
+    "secoes": 1
+   }
+  ],
+  "ISLAMABADE": [
+   {
+    "local": "ISLAMABADE",
+    "endereco": "EMBAIXADA DO BRASIL",
+    "eleitores": 18,
+    "secoes": 1
+   }
+  ],
+  "ISTAMBUL": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM ISTAMBUL",
+    "endereco": "SUZER PLAZA - ASKEROCAGI CADDESI, 6, SISLI  - ISTAMBUL",
+    "eleitores": 327,
+    "secoes": 1
+   }
+  ],
+  "JACARTA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM JACARTA",
+    "endereco": "WISMA MULIA 2, SUITE 2701 - JL. GATOT SUBROTO, N 40, JAKARTA 12710,",
+    "eleitores": 173,
+    "secoes": 1
+   }
+  ],
+  "KATMANDU": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM KATMANDU",
+    "endereco": "CHUNDEVI MARG, HOUSE NO. 155, MAHARAJGUNJ, KATMANDU, NEPAL",
+    "eleitores": 32,
+    "secoes": 1
+   }
+  ],
+  "KIEV": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM KIEV",
+    "endereco": "RUA ANDRIIVSKYI UZVIZ, 7-A",
+    "eleitores": 65,
+    "secoes": 1
+   }
+  ],
+  "KINGSTON-JAMAICA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM KINGSTON",
+    "endereco": "23 MILLSBOROUGH CRESCENT, KINGSTON 6, JAMAICA",
+    "eleitores": 103,
+    "secoes": 1
+   }
+  ],
+  "KINSHASA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM KINSHASA",
+    "endereco": "3098, AVENUE BATETELA, 14EME ÉTAGE, 1405, GOMBE, KINSHASA",
+    "eleitores": 27,
+    "secoes": 1
+   }
+  ],
+  "KUAITE": [
+   {
+    "local": "EMBAIXADA DO BRASIL NO KUAITE",
+    "endereco": "WEST MISHREF MUBARAK ABDULLAH AL-JABER AREA BLOCK 1 ST. 116, VILLA 4",
+    "eleitores": 140,
+    "secoes": 1
+   }
+  ],
+  "KUALA LUMPUR": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM KUALA LUMPUR",
+    "endereco": "207, JALAN TUN RAZAK, MENARA TAN E TAN, SUITE 20-01 - KUALA LUMPUR",
+    "eleitores": 171,
+    "secoes": 1
+   }
+  ],
+  "LA PAZ": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM LA PAZ",
+    "endereco": "AV. ARCE, ED. MULTICENTRO, LA PAZ, BOLIVIA",
+    "eleitores": 419,
+    "secoes": 1
+   }
+  ],
+  "LAGOS": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM LAGOS",
+    "endereco": "257 KOFO ABAYOMI, VICTORIA ISLAND, LAGOS STATE, NIGÉRIA",
+    "eleitores": 82,
+    "secoes": 1
+   }
+  ],
+  "LIBREVILLE": [
+   {
+    "local": "LIBREVILLE",
+    "endereco": "EMBAIXADA DO BRASIL",
+    "eleitores": 18,
+    "secoes": 1
+   }
+  ],
+  "LILONGUE": [
+   {
+    "local": "LILONGUE",
+    "endereco": "EMBAIXADA DO BRASIL EM LILONGUE",
+    "eleitores": 6,
+    "secoes": 1
+   }
+  ],
+  "LIMA": [
+   {
+    "local": "CHANCELARIA DA EMBAIXADA EM LIMA",
+    "endereco": "AVENIDA JOSÉ PARDO, 850",
+    "eleitores": 1622,
+    "secoes": 3
+   }
+  ],
+  "LISBOA": [
+   {
+    "local": "UNIVERSIDADE DE LISBOA (REITORIA, FAC. DIREITO, FAC. LETRAS)",
+    "endereco": "ALAMEDA DA UNIVERSIDADE, CIDADE UNIVERSITÁRIA, 1649-014 LISBOA",
+    "eleitores": 78833,
+    "secoes": 103
+   }
+  ],
+  "LIUBLIANA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM LIUBLIANA",
+    "endereco": "TRG REPUBLIKE 3, 7 ANDAR, LIUBLIANA, ESLOVÊNIA, 1000",
+    "eleitores": 163,
+    "secoes": 1
+   }
+  ],
+  "LOMÉ": [
+   {
+    "local": "LOMÉ",
+    "endereco": "EMBAIXADA DO BRASIL",
+    "eleitores": 7,
+    "secoes": 1
+   }
+  ],
+  "LONDRES": [
+   {
+    "local": "WEST LONDON COLLEGE",
+    "endereco": "9 GLIDDON RD, HAMMERSMITH, LONDON W14 9BL",
+    "eleitores": 37564,
+    "secoes": 48
+   }
+  ],
+  "LOS ANGELES": [
+   {
+    "local": "VETERAN'S PARK",
+    "endereco": "4117 OVERLAND AVE",
+    "eleitores": 15549,
+    "secoes": 21
+   },
+   {
+    "local": "LUMOS LANGUAGE SCHOOL",
+    "endereco": "220 EAST 3900 SOUTH, MILLCREEK UTAH 84107",
+    "eleitores": 2762,
+    "secoes": 4
+   }
+  ],
+  "LUANDA": [
+   {
+    "local": "LUANDA",
+    "endereco": "AV. PRES. HOUARI BOUMEDIENNE 132, MIRAMAR - LUANDA - ANGOLA",
+    "eleitores": 720,
+    "secoes": 1
+   }
+  ],
+  "LUSACA": [
+   {
+    "local": "LUSACA",
+    "endereco": "4 MANENEKELA ROAD (OFF INDEPENDENCE AV.), WOODLANDS",
+    "eleitores": 27,
+    "secoes": 1
+   }
+  ],
+  "MADRI": [
+   {
+    "local": "COLÉGIO BLANCA DE CASTILLA",
+    "endereco": "PASEO DE EDUARDO DATO, 2, MADRI",
+    "eleitores": 23519,
+    "secoes": 30
+   }
+  ],
+  "MALABO": [
+   {
+    "local": "MALABO",
+    "endereco": "EMBAIXADA DO BRASIL EM MALABO",
+    "eleitores": 5,
+    "secoes": 1
+   }
+  ],
+  "MANÁGUA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM MANÁGUA",
+    "endereco": "KM 7 3/4 CARRETERA PANAMERICANA SUR, QUINTA LOS PINOS, MANÁGUA",
+    "eleitores": 134,
+    "secoes": 1
+   }
+  ],
+  "MANILA": [
+   {
+    "local": "EMBAIXADA EM MANILA",
+    "endereco": "H.V. DELA COSTA 104, 16 ANDAR.MAKATI CITY, MANILA",
+    "eleitores": 230,
+    "secoes": 1
+   }
+  ],
+  "MAPUTO": [
+   {
+    "local": "INSTITUTO GUIMARÃES ROSA - MAPUTO",
+    "endereco": "1728 AV. 25 DE SETEMBRO, MAPUTO - MOÇAMBIQUE.",
+    "eleitores": 561,
+    "secoes": 1
+   }
+  ],
+  "MARSELHA": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM MARSELHA",
+    "endereco": "56 AVENUE ROBERT SCHUMAN, 3 ANDAR, 13002 - MARSELHA, FRANÇA",
+    "eleitores": 2668,
+    "secoes": 4
+   }
+  ],
+  "MASCATE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM MASCATE",
+    "endereco": "WAY 3021,VILLA 1788, AL SAROUJ, MASCATE,OMA",
+    "eleitores": 97,
+    "secoes": 1
+   }
+  ],
+  "MENDOZA": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM MENDOZA",
+    "endereco": "CALLE RIVADAVIA 628- MENDOZA- ARGENTINA",
+    "eleitores": 236,
+    "secoes": 1
+   }
+  ],
+  "MEXICO": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL NO MÉXICO",
+    "endereco": "AVENIDA DE LAS PALMAS, 405 - SALA 902 LOMAS DE CHAPULTEPEC, CIDADE DO",
+    "eleitores": 3975,
+    "secoes": 6
+   }
+  ],
+  "MIAMI": [
+   {
+    "local": "MIAMI DADE COLLEGE - KENDALL CAMPUS",
+    "endereco": "11011 SW 104TH STREET - MIAMI, FL33176 BUILDING R  BUILDING 9",
+    "eleitores": 40104,
+    "secoes": 51
+   }
+  ],
+  "MILÃO": [
+   {
+    "local": "SELEXI TEST CENTER",
+    "endereco": "VIA DEI VALTORTA, 48, 20127, MILÃO (MI), ITÁLIA",
+    "eleitores": 24632,
+    "secoes": 37
+   }
+  ],
+  "MONTEVIDÉU": [
+   {
+    "local": "CLUBE BRASILEIRO",
+    "endereco": "AV. 18 DE JULIO 994, 11100",
+    "eleitores": 2460,
+    "secoes": 4
+   }
+  ],
+  "MONTREAL": [
+   {
+    "local": "DAWSON COLLEGE (PRÉ-UNIVERSIDADE)-MONTREAL",
+    "endereco": "3040 SHERBROOKE ST W, MONTREAL, QUEBEC H3Z 1Z2",
+    "eleitores": 9467,
+    "secoes": 13
+   },
+   {
+    "local": "HOTEL ALT QUEBEC",
+    "endereco": "1200 AV. DE GERMAIN-DES-PRÉS, QUÉBEC, QC G1V 0K2",
+    "eleitores": 1537,
+    "secoes": 2
+   }
+  ],
+  "MOSCOU": [
+   {
+    "local": "EMBAIXADA EM MOSCOU",
+    "endereco": "BOLSHAIA NIKITSKAYA 54",
+    "eleitores": 256,
+    "secoes": 1
+   }
+  ],
+  "MUMBAI": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM MUMBAI, ÍNDIA",
+    "endereco": "12TH FL BAKHTAWAR UNIT 12B RAMNATH GOENKA MARG NARIMAN POINT MARASHTRA",
+    "eleitores": 57,
+    "secoes": 1
+   }
+  ],
+  "MUNIQUE": [
+   {
+    "local": "MUNIQUE - DEUTSCH MEISTERSCHULE FÜR MODE (ESCOLA ALEMÃ DE MODA)",
+    "endereco": "SENDLINGER-TOR-PLATZ 14. 80336 MÜNCHEN",
+    "eleitores": 13411,
+    "secoes": 21
+   }
+  ],
+  "NAGÓIA": [
+   {
+    "local": "GIFU MEMORIAL CENTER, DEAI DOME E FUREAI DOME",
+    "endereco": "502-0817 GIFU-KEN, GIFU-SHI, NAGARAFUKUMITSU, ONO 2675-28",
+    "eleitores": 27884,
+    "secoes": 36
+   },
+   {
+    "local": "AGF SUZUKA ARENA",
+    "endereco": "510-0231 MIE-KEN SUZUKA-SHI EJIMADAI 1-1-1",
+    "eleitores": 6234,
+    "secoes": 8
+   },
+   {
+    "local": "ESPAÇO DA PREFEITURA DE TOYOHASHI",
+    "endereco": "440-8501 AICHI-KEN, TOYOHASHI-SHI, IMAHASHI-CHO 1 BANCHI",
+    "eleitores": 6050,
+    "secoes": 8
+   },
+   {
+    "local": "HIROSHIMA CITY INTERNATIONAL HOUSE (RYUGAKUSEI KAIKAN)",
+    "endereco": "732-0806 HIROSHIMA-KEN, HIROSHIMA-SHI, MINAMI-KU, NISHI-KOJIN-MACHI 1",
+    "eleitores": 2250,
+    "secoes": 3
+   },
+   {
+    "local": "EMPRESA YUKAWA JINZAI SERVICE KK",
+    "endereco": "934-0093 TOYAMA-KEN, TAKAOKA-SHI, HIMENO 47-3",
+    "eleitores": 2152,
+    "secoes": 3
+   }
+  ],
+  "NAIRÓBI": [
+   {
+    "local": "EMBAIXADA EM NAIROBI",
+    "endereco": "123, GARDENIA ROAD, GIGIRI, NAIROBI, QUÊNIA",
+    "eleitores": 112,
+    "secoes": 1
+   }
+  ],
+  "NASSAU": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM NASSAU",
+    "endereco": "ONE MONTAGUE PLACE, 9, EAST BAY STREET, NASSAU, BAHAMAS.",
+    "eleitores": 70,
+    "secoes": 1
+   }
+  ],
+  "NICOSIA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM NICÓSIA",
+    "endereco": "ACHAION 14, AGIOS ANDREAS, 1101 NICÓSIA - CHIPRE",
+    "eleitores": 137,
+    "secoes": 1
+   }
+  ],
+  "NOVA DELHI": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM NOVA DELHI",
+    "endereco": "8, DR A.P.J. ABDUL KALAM ROAD",
+    "eleitores": 141,
+    "secoes": 1
+   }
+  ],
+  "NOVA YORK": [
+   {
+    "local": "QUEENS COLLEGE",
+    "endereco": "65-30 KISSENA BLVD, FLUSHING, NY 11367",
+    "eleitores": 39026,
+    "secoes": 53
+   }
+  ],
+  "ORLANDO": [
+   {
+    "local": "OSCEOLA HERITAGE PARK",
+    "endereco": "1875 SILVER SPUR LN, KISSIMMEE, FL 34744",
+    "eleitores": 26411,
+    "secoes": 34
+   }
+  ],
+  "OSLO": [
+   {
+    "local": "EMBAIXADA EM OSLO - CHANCELARIA DA EMBAIXADA",
+    "endereco": "SIGURD SYRSGATE 4, 0273 OSLO",
+    "eleitores": 2197,
+    "secoes": 3
+   }
+  ],
+  "OTTAWA": [
+   {
+    "local": "UNIVERSIDADE DE OTTAWA, UCU",
+    "endereco": "EDIFICIO JOCK TURCOT, 85 UNIVERSITY PRIVATE, OTTAWA, K1N 6N5",
+    "eleitores": 2366,
+    "secoes": 4
+   }
+  ],
+  "PANAMA": [
+   {
+    "local": "INSTITUTO DON BOSCO",
+    "endereco": "VÍA ISRAEL, PANAMÁ, PROVINCIA DE PANAMÁ",
+    "eleitores": 1402,
+    "secoes": 2
+   }
+  ],
+  "PARAMARIBO": [
+   {
+    "local": "INSTITUTO GUIMARÃES ROSA",
+    "endereco": "HERMAND D. BENJAMINSTRAAT, N.29 - PARAMARIBO - SURINAME - PARAMARIBO/",
+    "eleitores": 1430,
+    "secoes": 3
+   }
+  ],
+  "PARIS": [
+   {
+    "local": "ESPACE VINCI",
+    "endereco": "25 RUE DES JEUNEURS, 75002 PARIS",
+    "eleitores": 27062,
+    "secoes": 34
+   }
+  ],
+  "PASO LOS LIBRES": [
+   {
+    "local": "CONSULADO DO BRASIL EM PASO DE LOS LIBRES",
+    "endereco": "MITRE 894, PASO DE LOS LIBRES, CORRIENTES, ARGENTINA",
+    "eleitores": 41,
+    "secoes": 1
+   }
+  ],
+  "PEDRO JUAN CABALLERO": [
+   {
+    "local": "CONSULADO EM PEDRO JUAN CABALLERO",
+    "endereco": "CALLE MARISCAL ESTIGARRIBIA, 250 - PEDRO JUAN CABALLERO - PARAGUAI.",
+    "eleitores": 650,
+    "secoes": 1
+   }
+  ],
+  "PEQUIM": [
+   {
+    "local": "EMBAIXADA EM PEQUIM",
+    "endereco": "27, GUANGHUA LU, CHAOYANG DISTRICT - PEQUIM/CHINA",
+    "eleitores": 350,
+    "secoes": 1
+   }
+  ],
+  "PORT OF SPAIN": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM PORT OF SPAIN",
+    "endereco": "18 SWEET BRIAR ROAD - SAINT CLAIR - PORT OF SPAIN - TRINIDAD TOBAGO",
+    "eleitores": 88,
+    "secoes": 1
+   }
+  ],
+  "PORTO": [
+   {
+    "local": "ISEP - R. DR. ANTONIO BERNARDINO / R. DE SÃO TOMÉ (ENTRADAS SEPARADAS)",
+    "endereco": "SEÇÃO 1431 A 2957 (R. ANTONIO BERNARD) SEÇÃO 3103 A 3914 (R. SÃO TOMÉ)",
+    "eleitores": 47676,
+    "secoes": 62
+   }
+  ],
+  "PORTO PRÍNCIPE": [
+   {
+    "local": "INSTITUTO GUIMARÃES ROSEA (IGR) - CENTRE CULTUREL BRÉSIL-HAITI",
+    "endereco": "168, RUE DARGUIN, PÉTION-VILLE",
+    "eleitores": 33,
+    "secoes": 1
+   }
+  ],
+  "PRAGA": [
+   {
+    "local": "CHANCELARIA DA EMBAIXADA DO BRASIL EM PRAGA",
+    "endereco": "PANSKA 5, PRAGA, REPÚBLICA TCHECA",
+    "eleitores": 693,
+    "secoes": 1
+   }
+  ],
+  "PRAIA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM PRAIA",
+    "endereco": "CHÃ DE AREIA N 2, CIDADE DE PRAIA, ILHA DE SANTIAGO, REP DE CABO VERDE",
+    "eleitores": 146,
+    "secoes": 1
+   }
+  ],
+  "PRETÓRIA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM PRETORIA",
+    "endereco": "152 DALLAS AVE, WATERKLOOF GLEN, PRETORIA, 0181",
+    "eleitores": 657,
+    "secoes": 1
+   }
+  ],
+  "PUERTO IGUAZÚ": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM PUERTO IGUAZÚ",
+    "endereco": "AVENIDA CÓRDOBA, 278, CENTRO, PUERTO IGUAZÚ, N3370CP, ARGENTINA",
+    "eleitores": 62,
+    "secoes": 1
+   }
+  ],
+  "PUERTO QUIJARRO": [
+   {
+    "local": "PUERTO QUIJARRO",
+    "endereco": "CONSULADO DO BRASIL EM PUERTO QUIJARRO",
+    "eleitores": 8,
+    "secoes": 1
+   }
+  ],
+  "PYONGYANG": [
+   {
+    "local": "PYONGYANG",
+    "endereco": "EMBAIXADA DO BRASIL EM PYONGYANG",
+    "eleitores": 1,
+    "secoes": 1
+   }
+  ],
+  "QUITO": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM QUITO",
+    "endereco": "AV AMAZONAS N39-123 JOSÉ ARÍZAGA - EDF AMAZONAS PLAZA PISO 7, QUITO",
+    "eleitores": 996,
+    "secoes": 2
+   }
+  ],
+  "RABAT": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM RABAT",
+    "endereco": "38, RUE MOHAMED BEHRAOUI - SOUISSI - RABAT, MAROC",
+    "eleitores": 117,
+    "secoes": 1
+   }
+  ],
+  "RAMALLAH": [
+   {
+    "local": "NADIM ZAROU HALL",
+    "endereco": "RAMALLAH RECREATIONAL COMPLEX, 2 JACQUES CHIRAC STREET (RADIO STREET)",
+    "eleitores": 2140,
+    "secoes": 3
+   }
+  ],
+  "RIADE": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM RIADE",
+    "endereco": "3 DAREEN STREET, DIPLOMATIC QUARTER, RIYADH 11693 SAUDI ARABIA",
+    "eleitores": 311,
+    "secoes": 1
+   }
+  ],
+  "RIO BRANCO": [
+   {
+    "local": "VICE-CONSULADO DO BRASIL EM RIO BRANCO",
+    "endereco": "CALLE JOSÉ H. URIARTE, N 895",
+    "eleitores": 58,
+    "secoes": 1
+   }
+  ],
+  "RIVERA": [
+   {
+    "local": "RIVERA",
+    "endereco": "CONSULADO GERAL DO BRASIL EM RIVERA",
+    "eleitores": 19,
+    "secoes": 1
+   }
+  ],
+  "ROMA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM ROMA",
+    "endereco": "PIAZZA NAVONA 14, ROMA, ITÁLIA",
+    "eleitores": 14197,
+    "secoes": 22
+   }
+  ],
+  "SAINT JOHNS": [
+   {
+    "local": "SAINT JOHNS",
+    "endereco": "EMBAIXADA DO BRASIL EM SAINT JOHNS",
+    "eleitores": 1,
+    "secoes": 1
+   }
+  ],
+  "SALTO DEL GUAIRÁ": [
+   {
+    "local": "CONSULADO DO BRASIL EM SALTO DEL GUAIRÁ",
+    "endereco": "CALLE FRANCISCO CABALLERO ALVAREZ, SALTO DEL GUAIRÁ, PARAGUAI",
+    "eleitores": 901,
+    "secoes": 2
+   }
+  ],
+  "SANTA CRUZ DE LA SIERRA": [
+   {
+    "local": "CONSULADO EM SANTA CRUZ DE LA SIERRA",
+    "endereco": "AVENIDA MARCELO TERCEROS BANZER 334, SANTA CRUZ DE LA SIERRA, BOLÍVIA",
+    "eleitores": 2783,
+    "secoes": 5
+   }
+  ],
+  "SANTA ELENA DE UAIRÉN": [
+   {
+    "local": "SANTA ELENA DE UAIRÉN",
+    "endereco": "VICE CONSULADO DO BRASIL EM SANTA ELENA DE UAIRÉN",
+    "eleitores": 1,
+    "secoes": 1
+   }
+  ],
+  "SANTIAGO": [
+   {
+    "local": "HOTEL RADISSON BLU PLAZA EL BOSQUE SANTIAGO",
+    "endereco": "AVENIDA MANQUEHUE NORTE, 656, LAS CONDES, SANTIAGO, CHILE",
+    "eleitores": 3569,
+    "secoes": 5
+   }
+  ],
+  "SÃO DOMINGOS": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM SÃO DOMINGOS",
+    "endereco": "DOWNTOWN CENTER BUSINESS TOWER, PISO 8A, AV. NUÑEZ DE C ESQ. RÓMULO B",
+    "eleitores": 417,
+    "secoes": 1
+   }
+  ],
+  "SÃO FRANCISCO": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM SÃO FRANCISCO",
+    "endereco": "300 MONTGOMERY ST., 1ST FLOOR, BANKING HALL. SAN FRANCISCO, CA 94104.",
+    "eleitores": 15530,
+    "secoes": 20
+   }
+  ],
+  "SÃO JOSÉ": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM SÃO JOSÉ",
+    "endereco": "OFICENTRO EJECUTIVO LA SABANA TORRE 6 PISO 2, SABANA SUR, MATA REDONDA",
+    "eleitores": 718,
+    "secoes": 1
+   }
+  ],
+  "SÃO SALVADOR": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM EL SALVADOR",
+    "endereco": "BOULEVARD SÉRGIO VIEIRA DE MELLO, 132 COLONIA SAN BENITO, SAN SALVADOR",
+    "eleitores": 161,
+    "secoes": 1
+   }
+  ],
+  "SÃO TOMÉ": [
+   {
+    "local": "SÃO TOMÉ",
+    "endereco": "CONSULADO GERAL DO BRASIL EM SÃO TOMÉ",
+    "eleitores": 18,
+    "secoes": 1
+   }
+  ],
+  "SARAJEVO": [
+   {
+    "local": "SARAJEVO",
+    "endereco": "EMBAIXADA DO BRASIL EM SARAJEVO",
+    "eleitores": 10,
+    "secoes": 1
+   },
+   {
+    "local": "CANTÃO DE ZENICA-DOBOJ",
+    "endereco": "EMBAIXADA DE SARAVEJO",
+    "eleitores": 2,
+    "secoes": 1
+   }
+  ],
+  "SEUL": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM SEUL",
+    "endereco": "74 , CHEONGWADAE-RO, JONGNO-GU, SEUL 03054",
+    "eleitores": 489,
+    "secoes": 1
+   }
+  ],
+  "SINGAPURA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM SINGAPURA",
+    "endereco": "101 THOMSON ROAD 29-01/03, UNITED SQUARE OFFICE TOWER, SINGAPURA",
+    "eleitores": 866,
+    "secoes": 2
+   }
+  ],
+  "SÓFIA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM SÓFIA",
+    "endereco": "RUA VELIKO TARNOVO 5, SÓFIA 1504, BULGÁRIA",
+    "eleitores": 98,
+    "secoes": 1
+   }
+  ],
+  "ST GEORGES DE LOYAPOCK": [
+   {
+    "local": "ST GEORGES DE LOYAPOCK",
+    "endereco": "CONSULADO DO BRASIL EM ST GEORGES DE LOYAPOCK",
+    "eleitores": 10,
+    "secoes": 1
+   }
+  ],
+  "SYDNEY": [
+   {
+    "local": "SEÇÕES 1950/1954/1955/1956/1957 VOTAM NO CONSULADO (CLARENCE ST)",
+    "endereco": "DEMAIS SEÇÕES VOTAM EM 10 SPRING STREET",
+    "eleitores": 9718,
+    "secoes": 13
+   },
+   {
+    "local": "BRISBANE CITY HALL",
+    "endereco": "64 ADELAIDE ST, BRISBANE CITY, 4000",
+    "eleitores": 4352,
+    "secoes": 6
+   }
+  ],
+  "TAIPÉ": [
+   {
+    "local": "ESCRITÓRIO COMERCIAL DO BRASIL EM TAIPÉ",
+    "endereco": "2F, NO. 45, DEXING WEST ROAD, SHILIN DISTRICT, TAIPÉ, 11158, TAIWAN",
+    "eleitores": 624,
+    "secoes": 1
+   }
+  ],
+  "TALIN": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TALIN",
+    "endereco": "ANTS LAUTERI 5, 4 ANDAR, TALIN 10114, ESTÔNIA",
+    "eleitores": 325,
+    "secoes": 1
+   }
+  ],
+  "TBILISI": [
+   {
+    "local": "TBILISI",
+    "endereco": "EMBAIXADA DO BRASIL EM TBILISI",
+    "eleitores": 29,
+    "secoes": 1
+   }
+  ],
+  "TEERÃ": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TEERÃ",
+    "endereco": "22 PARZIN BAGHDADI ST., VALIE ASR AVE. 1987943851 - TEERÃ - IRÃ",
+    "eleitores": 45,
+    "secoes": 1
+   }
+  ],
+  "TEGUCIGALPA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TEGUCIGALPA",
+    "endereco": "COLÔNIA PALMIRA, CALLE REPÚBLICA DE BRASIL, NR. 2301, TEGUCIGALPA",
+    "eleitores": 153,
+    "secoes": 1
+   }
+  ],
+  "TEL AVIV": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TEL AVIV",
+    "endereco": "DERECH BEGIN, N. 23, 28 ANDAR  - TEL AVIV",
+    "eleitores": 3452,
+    "secoes": 5
+   }
+  ],
+  "TIRANA": [
+   {
+    "local": "TIRANA - ALBANIA",
+    "endereco": "EMBAIXADA DO BRASIL EM TIRANA",
+    "eleitores": 9,
+    "secoes": 1
+   }
+  ],
+  "TÓQUIO": [
+   {
+    "local": "ARIAKE CENTRAL TOWER",
+    "endereco": "135-0063, TOKYO-TO, KOTO-KU, ARIAKE 3-7-18,  3O E 4O ANDAR",
+    "eleitores": 17560,
+    "secoes": 26
+   },
+   {
+    "local": "OIZUMI BUNKAMURA",
+    "endereco": "370-0514, JAPÃO, GUNMA-KEN, OURA-GUN, OIZUMI-MACHI, ASAHI 5-24-1",
+    "eleitores": 12502,
+    "secoes": 17
+   }
+  ],
+  "TORONTO": [
+   {
+    "local": "YMCA CENTRE-TORONTO - ONTÁRIO",
+    "endereco": "20 GROSVENOR ST, TORONTO, ON",
+    "eleitores": 20183,
+    "secoes": 26
+   },
+   {
+    "local": "ADRA HUB - MANITOBA",
+    "endereco": "95 STADACONA ST- WINNIPEG",
+    "eleitores": 822,
+    "secoes": 2
+   }
+  ],
+  "TRÍPOLI": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TÚNIS",
+    "endereco": "RUE DU LAC LÉMAN, LES BERGES DU LAC, TÚNIS 1053, TUNÍSIA",
+    "eleitores": 30,
+    "secoes": 1
+   }
+  ],
+  "TUNIS": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM TÚNIS",
+    "endereco": "RUE DU LAC LÉMAN, LES BERGES DU LAC, TÚNIS 1053, TUNÍSIA",
+    "eleitores": 47,
+    "secoes": 1
+   }
+  ],
+  "UAGADUGU": [
+   {
+    "local": "UAGADUGU - BURKINA FASO",
+    "endereco": "EMBAIXADA DO BRASIL EM UAGADUGU",
+    "eleitores": 6,
+    "secoes": 1
+   }
+  ],
+  "VANCOUVER": [
+   {
+    "local": "PINNACLE HOTEL HARBOURFRONT - VANCOUVER - COLÚMBIA",
+    "endereco": "1133 W HASTINGS ST, VANCOUVER, BC V6E 3T3",
+    "eleitores": 9071,
+    "secoes": 12
+   },
+   {
+    "local": "CALGARY - CHINESE CULTURAL CENTER",
+    "endereco": "197 1ST STREET SW T2P 4M4",
+    "eleitores": 3042,
+    "secoes": 4
+   }
+  ],
+  "VARSÓVIA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM VARSÓVIA",
+    "endereco": "POLNA 11, ENTRADA B, 12 ANDAR, VARSÓVIA, POLÔNIA",
+    "eleitores": 756,
+    "secoes": 1
+   }
+  ],
+  "VIENA": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM VIENA",
+    "endereco": "PESTALOZZIGASSE 4/2 VIENA, ÁUSTRIA",
+    "eleitores": 3147,
+    "secoes": 5
+   }
+  ],
+  "WASHINGTON": [
+   {
+    "local": "CAPITAL HILTON (HOTEL)",
+    "endereco": "1001 16TH STREET NW, WASHINGTON DC, 20036, ESTADOS UNIDOS",
+    "eleitores": 18193,
+    "secoes": 31
+   }
+  ],
+  "WELLINGTON": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM WELLINGTON",
+    "endereco": "10 CUSTOMHOUSE QUAY, LEVEL 15, WELLINGTON, NOVA ZELÂNDIA",
+    "eleitores": 3130,
+    "secoes": 5
+   }
+  ],
+  "WINDHOEK": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM WINDHOEK",
+    "endereco": "52 SIMEON LINEEKELA SHIXUNGILENI STREET",
+    "eleitores": 38,
+    "secoes": 1
+   }
+  ],
+  "XANGAI": [
+   {
+    "local": "CONSULADO-GERAL DO BRASIL EM XANGAI",
+    "endereco": "WEST BEIJING RD 968 EDF GARDEN SQUARE 10 ANDAR UNIDADES 1006B-1008",
+    "eleitores": 746,
+    "secoes": 1
+   }
+  ],
+  "YANGON": [
+   {
+    "local": "YANGON",
+    "endereco": "EMBAIXADA DO BRASIL EM YANGON",
+    "eleitores": 6,
+    "secoes": 1
+   }
+  ],
+  "ZAGREB": [
+   {
+    "local": "EMBAIXADA DO BRASIL EM ZAGREB",
+    "endereco": "TRG DRAGE IBLERA 10, 8 ANDAR",
+    "eleitores": 136,
+    "secoes": 1
+   }
+  ],
+  "ZURIQUE": [
+   {
+    "local": "KONGRESSHAUS ZURICH",
+    "endereco": "CLARIDENSTRASSE 5, 8002 ZURIQUE",
+    "eleitores": 15122,
+    "secoes": 19
+   }
+  ]
+ }
+}

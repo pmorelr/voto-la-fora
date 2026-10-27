@@ -1,0 +1,853 @@
+{
+  "Lisbon|pt": {
+    "lat": 38.70775,
+    "lon": -9.13659,
+    "nome_osm": "Lisboa, Portugal"
+  },
+  "Boston, Massachusetts|us": {
+    "lat": 42.35883,
+    "lon": -71.05783,
+    "nome_osm": "Boston, Suffolk County, Massachusetts, Estados Unidos da América"
+  },
+  "Porto|pt": {
+    "lat": 41.15022,
+    "lon": -8.61035,
+    "nome_osm": "Porto, Portugal"
+  },
+  "Nagoya|jp": {
+    "lat": 35.1851,
+    "lon": 136.89984,
+    "nome_osm": "Nagoia, Prefeitura de Aichi, Japão"
+  },
+  "Miami, Florida|us": {
+    "lat": 25.77416,
+    "lon": -80.1936,
+    "nome_osm": "Miami, Condado de Miami-Dade, Flórida, Estados Unidos da América"
+  },
+  "New York City|us": {
+    "lat": 40.71273,
+    "lon": -74.00602,
+    "nome_osm": "Nova Iorque, Estados Unidos da América"
+  },
+  "London|gb": {
+    "lat": 51.50745,
+    "lon": -0.12777,
+    "nome_osm": "Grande Londres, Inglaterra, Reino Unido"
+  },
+  "Tokyo|jp": {
+    "lat": 35.67686,
+    "lon": 139.76389,
+    "nome_osm": "Tóquio, Japão"
+  },
+  "Paris|fr": {
+    "lat": 48.8535,
+    "lon": 2.34839,
+    "nome_osm": "Paris, Ilha de França, França metropolitana, França"
+  },
+  "Orlando, Florida|us": {
+    "lat": 28.54212,
+    "lon": -81.37905,
+    "nome_osm": "Orlando, Condado de Orange, Flórida, Estados Unidos da América"
+  },
+  "Milan|it": {
+    "lat": 45.46419,
+    "lon": 9.18963,
+    "nome_osm": "Milão, Rodano, Milão, Lombardia, Itália"
+  },
+  "Madrid|es": {
+    "lat": 40.41678,
+    "lon": -3.70351,
+    "nome_osm": "Madrid, Comunidade de Madrid, Espanha"
+  },
+  "Toronto|ca": {
+    "lat": 43.65348,
+    "lon": -79.38393,
+    "nome_osm": "Toronto, Ontário, Canadá"
+  },
+  "Los Angeles|us": {
+    "lat": 34.05222,
+    "lon": -118.2434,
+    "nome_osm": "Los Angeles, Los Angeles County, Califórnia, Estados Unidos da América"
+  },
+  "Washington, District of Columbia|us": {
+    "lat": 38.8951,
+    "lon": -77.03638,
+    "nome_osm": "Washington, District of Columbia, Estados Unidos da América"
+  },
+  "Barcelona|es": {
+    "lat": 41.38258,
+    "lon": 2.17707,
+    "nome_osm": "Barcelona, Barcelonès, Barcelona, Catalunha, Espanha"
+  },
+  "Dublin|ie": {
+    "lat": 53.34938,
+    "lon": -6.26056,
+    "nome_osm": "Dublin, County Dublin, Leinster, Irlanda"
+  },
+  "Houston, Texas|us": {
+    "lat": 29.75894,
+    "lon": -95.3677,
+    "nome_osm": "Houston, Condado de Harris, Texas, Estados Unidos da América"
+  },
+  "Atlanta, Georgia|us": {
+    "lat": 33.75447,
+    "lon": -84.38982,
+    "nome_osm": "Atlanta, Fulton County, Geórgia, Estados Unidos da América"
+  },
+  "San Francisco|us": {
+    "lat": 37.78794,
+    "lon": -122.40752,
+    "nome_osm": "São Francisco, Califórnia, Estados Unidos da América"
+  },
+  "Zurich|ch": {
+    "lat": 47.37445,
+    "lon": 8.54104,
+    "nome_osm": "Zurique, Bezirk Zürich, Zurique, Suíça"
+  },
+  "Berlin|de": {
+    "lat": 52.51739,
+    "lon": 13.39513,
+    "nome_osm": "Berlim, Alemanha"
+  },
+  "Rome|it": {
+    "lat": 41.89332,
+    "lon": 12.48293,
+    "nome_osm": "Roma, Roma Capitale, Lácio, Itália"
+  },
+  "Sydney|au": {
+    "lat": -33.86984,
+    "lon": 151.20828,
+    "nome_osm": "Sydney, Nova Gales do Sul, Austrália"
+  },
+  "Hamamatsu|jp": {
+    "lat": 34.71098,
+    "lon": 137.72594,
+    "nome_osm": "浜松市, Prefeitura de Shizuoka, Japão"
+  },
+  "Munich|de": {
+    "lat": 48.13711,
+    "lon": 11.57538,
+    "nome_osm": "Munique, Baviera, Alemanha"
+  },
+  "Frankfurt am Main|de": {
+    "lat": 50.11064,
+    "lon": 8.68209,
+    "nome_osm": "Frankfurt sobre o Meno, Hesse, Alemanha"
+  },
+  "Amsterdam|nl": {
+    "lat": 52.37308,
+    "lon": 4.89245,
+    "nome_osm": "Amsterdã, Amsterdão, Noord-Holland, Países Baixos"
+  },
+  "Chicago|us": {
+    "lat": 41.87556,
+    "lon": -87.62442,
+    "nome_osm": "Chicago, South Chicago Township, Cook County, Illinois, Estados Unidos da América"
+  },
+  "Vancouver|ca": {
+    "lat": 49.26087,
+    "lon": -123.11395,
+    "nome_osm": "Vancouver, Metro Vancouver Regional District, Colúmbia Britânica, Canadá"
+  },
+  "Geneva|ch": {
+    "lat": 46.20176,
+    "lon": 6.1466,
+    "nome_osm": "Genebra, Suíça"
+  },
+  "Buenos Aires|ar": {
+    "lat": -34.60956,
+    "lon": -58.38879,
+    "nome_osm": "Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  "Montreal|ca": {
+    "lat": 45.50318,
+    "lon": -73.56981,
+    "nome_osm": "Montreal, Agglomération de Montréal, Montréal (région administrative), Quebec, Canadá"
+  },
+  "Brussels|be": {
+    "lat": 50.84674,
+    "lon": 4.35249,
+    "nome_osm": "Bruxelas, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, Bélgica"
+  },
+  "Hartford, Connecticut|us": {
+    "lat": 41.76616,
+    "lon": -72.67327,
+    "nome_osm": "Hartford, Capitol Planning Region, Connecticut, Estados Unidos da América"
+  },
+  "Beirut|lb": {
+    "lat": 33.88923,
+    "lon": 35.50256,
+    "nome_osm": "Beirute, البسطة التحتا, باشورة, Beirute, Líbano"
+  },
+  "Faro|pt": {
+    "lat": 37.01629,
+    "lon": -7.93518,
+    "nome_osm": "Faro, Portugal"
+  },
+  "Canberra|au": {
+    "lat": -35.29759,
+    "lon": 149.10127,
+    "nome_osm": "Camberra, District of Canberra Central, Território da Capital Australiana, 2600, Austrália"
+  },
+  "Ciudad del Este|py": {
+    "lat": -25.5169,
+    "lon": -54.61686,
+    "nome_osm": "Cidade do Leste, Alto Paraná, Región Oriental, Paraguai"
+  },
+  "Stockholm|se": {
+    "lat": 59.32512,
+    "lon": 18.07109,
+    "nome_osm": "Estocolmo, Stockholms kommun, Stockholms län, 111 29, Suécia"
+  },
+  "Edinburgh|gb": {
+    "lat": 55.95335,
+    "lon": -3.18837,
+    "nome_osm": "Edimburgo, Escócia, Reino Unido"
+  },
+  "Mexico City|mx": {
+    "lat": 19.32077,
+    "lon": -99.15147,
+    "nome_osm": "Cidade do México, México"
+  },
+  "Santiago|cl": {
+    "lat": -33.4377,
+    "lon": -70.65107,
+    "nome_osm": "Santiago, Provincia de Santiago, Região Metropolitana de Santiago, 8320000, Chile"
+  },
+  "Tel Aviv|il": {
+    "lat": 32.0853,
+    "lon": 34.78181,
+    "nome_osm": "Tel Aviv, נפת תל אביב, Distrito de Tel-Aviv, Israel"
+  },
+  "Vienna|at": {
+    "lat": 48.20835,
+    "lon": 16.3725,
+    "nome_osm": "Viena, Áustria"
+  },
+  "Wellington|nz": {
+    "lat": -41.2888,
+    "lon": 174.77721,
+    "nome_osm": "Wellington, Wellington City, Wellington, 6011, Nova Zelândia"
+  },
+  "Cayenne|fr": {
+    "lat": 4.93715,
+    "lon": -52.32587,
+    "nome_osm": "Caiena, Cayenne, Guiana Francesa, 97300, França"
+  },
+  "Abu Dhabi|ae": {
+    "lat": 24.45384,
+    "lon": 54.3774,
+    "nome_osm": "Abu Dhabi, أبوظبي, أبو ظبي, Emirados Árabes Unidos"
+  },
+  "Copenhagen|dk": {
+    "lat": 55.68672,
+    "lon": 12.57007,
+    "nome_osm": "Copenhague, Comuna de Copenhague, Região da Capital, 1357, Dinamarca"
+  },
+  "Santa Cruz de la Sierra|bo": {
+    "lat": -17.78342,
+    "lon": -63.18209,
+    "nome_osm": "Santa Cruz de la Sierra, Provincia Andrés Ibáñez, Santa Cruz, Bolívia"
+  },
+  "Marseille|fr": {
+    "lat": 43.2964,
+    "lon": 5.37779,
+    "nome_osm": "Marselha, Marseille, Bouches-du-Rhône, Provença-Alpes-Costa Azul, França metropolitana, França"
+  },
+  "Montevideo|uy": {
+    "lat": -34.90589,
+    "lon": -56.19131,
+    "nome_osm": "Montevidéu, Montevideo, Uruguai"
+  },
+  "Ottawa|ca": {
+    "lat": 45.42088,
+    "lon": -75.69011,
+    "nome_osm": "Ottawa, Eastern Ontario, Ontário, Canadá"
+  },
+  "Asuncion|py": {
+    "lat": -25.28005,
+    "lon": -57.63438,
+    "nome_osm": "Assunção, Asunción, Distrito Capital, Región Oriental, 001013, Paraguai"
+  },
+  "Oslo|no": {
+    "lat": 59.91333,
+    "lon": 10.73897,
+    "nome_osm": "Oslo, Noruega"
+  },
+  "Ramallah|ps": {
+    "lat": 31.90305,
+    "lon": 35.19523,
+    "nome_osm": "Ramalá, Área A, Cisjordânia, الأراضي الفلسطينية"
+  },
+  "Lima|pe": {
+    "lat": -12.04598,
+    "lon": -77.03059,
+    "nome_osm": "Lima, Lima Metropolitana, Lima, 15001, Peru"
+  },
+  "Bogota|co": {
+    "lat": 4.65338,
+    "lon": -74.08363,
+    "nome_osm": "Bogotá, Bogotá, Distrito Capital, RAP (Especial) Central, Colômbia"
+  },
+  "Amman|jo": {
+    "lat": 31.95157,
+    "lon": 35.92396,
+    "nome_osm": "Amã, ناحية عمان, لواء قصبة عمان, Amã, 11110, Jordânia"
+  },
+  "Paramaribo|sr": {
+    "lat": 5.82418,
+    "lon": -55.16628,
+    "nome_osm": "Centrum, Paramaribo, Suriname"
+  },
+  "Panama City|pa": {
+    "lat": 8.97145,
+    "lon": -79.53418,
+    "nome_osm": "Panamá, Calidonia, Distrito de Panamá, Provincia de Panamá, 0843, Panamá"
+  },
+  "Helsinki|fi": {
+    "lat": 60.16662,
+    "lon": 24.94354,
+    "nome_osm": "Helsínquia, Helsingin seutukunta, Uusimaa, Manner-Suomi, Finlândia"
+  },
+  "Athens|gr": {
+    "lat": 37.97556,
+    "lon": 23.73483,
+    "nome_osm": "Atenas, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 57, Grécia"
+  },
+  "Caracas|ve": {
+    "lat": 10.50609,
+    "lon": -66.9146,
+    "nome_osm": "Caracas, Parroquia Catedral, Municipio Libertador, Distrito Metropolitano de Caracas, Distrito Capital, Venezuela"
+  },
+  "Quito|ec": {
+    "lat": -0.22016,
+    "lon": -78.51233,
+    "nome_osm": "Quito, Distrito Metropolitano de Quito, Pichincha, 170130, Equador"
+  },
+  "Córdoba|ar": {
+    "lat": -31.41669,
+    "lon": -64.18342,
+    "nome_osm": "Córdova, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdova, X5000, Argentina"
+  },
+  "Salto del Guairá|py": {
+    "lat": -24.06166,
+    "lon": -54.30564,
+    "nome_osm": "Salto do Guairá, Canindeyú, Región Oriental, Paraguai"
+  },
+  "Singapore|sg": {
+    "lat": 1.35711,
+    "lon": 103.8195,
+    "nome_osm": "Singapura"
+  },
+  "Budapest|hu": {
+    "lat": 47.49788,
+    "lon": 19.04024,
+    "nome_osm": "Budapeste, Budapest, Hungria"
+  },
+  "Damascus|sy": {
+    "lat": 33.51307,
+    "lon": 36.30958,
+    "nome_osm": "Damasco, بلدية دمشق القديمة, ناحية دمشق, منطقة دمشق, محافظة دمشق, Síria"
+  },
+  "Doha|qa": {
+    "lat": 25.31088,
+    "lon": 51.50818,
+    "nome_osm": "Doha, Catar"
+  },
+  "Warsaw|pl": {
+    "lat": 52.23196,
+    "lon": 21.00672,
+    "nome_osm": "Varsóvia, Voivodia da Mazóvia, Polónia"
+  },
+  "Shanghai|cn": {
+    "lat": 31.23127,
+    "lon": 121.47002,
+    "nome_osm": "Xangai, China"
+  },
+  "Luanda|ao": {
+    "lat": -8.82727,
+    "lon": 13.24395,
+    "nome_osm": "Luanda, Município de Luanda, Luanda, Angola"
+  },
+  "San José|cr": {
+    "lat": 9.93277,
+    "lon": -84.07961,
+    "nome_osm": "San José, Costa Rica"
+  },
+  "Prague|cz": {
+    "lat": 50.08747,
+    "lon": 14.42125,
+    "nome_osm": "Praga, Tchéquia"
+  },
+  "Hong Kong|hk": null,
+  "Pretoria|za": {
+    "lat": -25.74593,
+    "lon": 28.18791,
+    "nome_osm": "Pretória, City of Tshwane Metropolitan Municipality, Gautengue, 0142, África do Sul"
+  },
+  "Pedro Juan Caballero|py": {
+    "lat": -22.54978,
+    "lon": -55.73843,
+    "nome_osm": "Pedro Juan Caballero, Amambay, Región Oriental, Paraguai"
+  },
+  "Taipei|tw": {
+    "lat": 25.03752,
+    "lon": 121.56368,
+    "nome_osm": "Taipé, Taiwan"
+  },
+  "Artigas|uy": {
+    "lat": -30.61708,
+    "lon": -56.93735,
+    "nome_osm": "Artigas, Uruguai"
+  },
+  "Maputo|mz": {
+    "lat": -25.96621,
+    "lon": 32.56745,
+    "nome_osm": "Cidade de Maputo, Zona Sul, Moçambique"
+  },
+  "Seoul|kr": {
+    "lat": 37.56668,
+    "lon": 126.97829,
+    "nome_osm": "Seul, Coreia do Sul"
+  },
+  "Guangzhou|cn": {
+    "lat": 23.12884,
+    "lon": 113.25896,
+    "nome_osm": "Cantão, Província de Cantão, China"
+  },
+  "La Paz|bo": {
+    "lat": -16.49555,
+    "lon": -68.13362,
+    "nome_osm": "La Paz, Provincia Pedro Domingo Murillo, La Paz, Bolívia"
+  },
+  "Santo Domingo|do": {
+    "lat": 18.47139,
+    "lon": -69.89184,
+    "nome_osm": "São Domingos, Distrito Nacional, 03201, República Dominicana"
+  },
+  "Cochabamba|bo": {
+    "lat": -17.40125,
+    "lon": -66.16757,
+    "nome_osm": "Cochabamba, Juan De La Rosa, Molle, Cochabamba, Cercado, Cochabamba, Bolívia"
+  },
+  "Cape Town|za": {
+    "lat": -33.92883,
+    "lon": 18.41722,
+    "nome_osm": "Cidade do Cabo, City of Cape Town, Cabo Ocidental, 8001, África do Sul"
+  },
+  "Beijing|cn": {
+    "lat": 39.90571,
+    "lon": 116.3913,
+    "nome_osm": "Pequim, China"
+  },
+  "Istanbul|tr": {
+    "lat": 41.00638,
+    "lon": 28.97587,
+    "nome_osm": "Istambul, Fatih, İstanbul, Marmara Bölgesi, 34122, Turquia"
+  },
+  "Tallinn|ee": {
+    "lat": 59.43724,
+    "lon": 24.75727,
+    "nome_osm": "Tallinn, Harju maakond, Estônia"
+  },
+  "Riyadh|sa": {
+    "lat": 24.63892,
+    "lon": 46.71601,
+    "nome_osm": "Riade, محافظة الرياض, Riade, 12643, Arábia Saudita"
+  },
+  "Bangkok|th": {
+    "lat": 13.75249,
+    "lon": 100.49351,
+    "nome_osm": "Banguecoque, Tailândia"
+  },
+  "Guatemala City|gt": {
+    "lat": 14.64161,
+    "lon": -90.51328,
+    "nome_osm": "Cidade da Guatemala, Zona 2, Departamento de Guatemala, Guatemala"
+  },
+  "Encarnación|py": {
+    "lat": -27.33761,
+    "lon": -55.86695,
+    "nome_osm": "Encarnación, Itapúa, Región Oriental, Paraguai"
+  },
+  "Moscow|ru": {
+    "lat": 55.62558,
+    "lon": 37.60639,
+    "nome_osm": "Moscovo, Distrito Federal Central, Rússia"
+  },
+  "Mendoza|ar": {
+    "lat": -34.59703,
+    "lon": -68.73048,
+    "nome_osm": "Mendoza, Argentina"
+  },
+  "Manila|ph": {
+    "lat": 14.59045,
+    "lon": 120.98036,
+    "nome_osm": "Manila, Capital District, Metro Manila, Filipinas"
+  },
+  "Cairo|eg": {
+    "lat": 30.04439,
+    "lon": 31.23573,
+    "nome_osm": "Cairo, Egito"
+  },
+  "Georgetown|gy": {
+    "lat": 6.80326,
+    "lon": -58.14554,
+    "nome_osm": "City of Georgetown, Demerara-Mahaica, Guiana"
+  },
+  "Jakarta|id": {
+    "lat": -6.1754,
+    "lon": 106.82717,
+    "nome_osm": "Jacarta, Indonésia"
+  },
+  "Kuala Lumpur|my": {
+    "lat": 3.1517,
+    "lon": 101.69424,
+    "nome_osm": "Kuala Lumpur, Malásia"
+  },
+  "Ljubljana|si": {
+    "lat": 46.05003,
+    "lon": 14.50693,
+    "nome_osm": "Liubliana, Ljubljana, Upravna Enota Ljubljana, 1000, Eslovênia"
+  },
+  "San Salvador|sv": {
+    "lat": 13.69763,
+    "lon": -89.19116,
+    "nome_osm": "São Salvador, San Salvador Centro, San Salvador, El Salvador"
+  },
+  "Tegucigalpa|hn": {
+    "lat": 14.10581,
+    "lon": -87.20471,
+    "nome_osm": "Tegucigalpa, Distrito Central, Francisco Morazán, Honduras"
+  },
+  "Praia|cv": {
+    "lat": 14.91628,
+    "lon": -23.50951,
+    "nome_osm": "Praia, Platô, Praia, 7600, Cabo Verde"
+  },
+  "New Delhi|in": {
+    "lat": 28.6139,
+    "lon": 77.20901,
+    "nome_osm": "Nova Deli, New Delhi, Deli, Índia"
+  },
+  "Kuwait City|kw": {
+    "lat": 29.37965,
+    "lon": 47.97342,
+    "nome_osm": "Kuwait, القبلة, Al Asimah, 15005, Kuwait"
+  },
+  "Nicosia|cy": {
+    "lat": 35.17465,
+    "lon": 33.36388,
+    "nome_osm": "Nicósia, Δήμος Λευκωσίας, Nicósia, Chipre, 1107, Chipre"
+  },
+  "Zagreb|hr": {
+    "lat": 45.8131,
+    "lon": 15.97728,
+    "nome_osm": "Zagreb, Croácia"
+  },
+  "Managua|ni": {
+    "lat": 12.15471,
+    "lon": -86.27372,
+    "nome_osm": "Manágua, Managua, 10000 (código maestro), Nicarágua"
+  },
+  "Dakar|sn": {
+    "lat": 14.69342,
+    "lon": -17.44794,
+    "nome_osm": "Dacar, Dakar, Senegal"
+  },
+  "Bucharest|ro": {
+    "lat": 44.43614,
+    "lon": 26.10268,
+    "nome_osm": "Bucareste, Romênia"
+  },
+  "Bratislava|sk": {
+    "lat": 48.1435,
+    "lon": 17.10829,
+    "nome_osm": "Bratislava, Bratislavský kraj, Eslováquia"
+  },
+  "Rabat|ma": {
+    "lat": 34.02185,
+    "lon": -6.84089,
+    "nome_osm": "Rabat, باشوية الرباط, Préfecture de Rabat عمالة الرباط, Rabat-Salé-Kénitra ⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ الرباط-سلا-القنيطرة, Marrocos"
+  },
+  "Belgrade|rs": {
+    "lat": 44.81533,
+    "lon": 20.44566,
+    "nome_osm": "Belgrado, Cidade de Belgrado, Централна Србија, Sérvia"
+  },
+  "Nairobi|ke": {
+    "lat": -1.289,
+    "lon": 36.81728,
+    "nome_osm": "Nairóbi, Nairobi, Quênia"
+  },
+  "Kingston|jm": {
+    "lat": 17.97121,
+    "lon": -76.79281,
+    "nome_osm": "Kingston, Surrey County, Jamaica"
+  },
+  "Sofia|bg": {
+    "lat": 42.6977,
+    "lon": 23.32174,
+    "nome_osm": "Sófia, Средец, Столична, София-град, Bulgária"
+  },
+  "Muscat|om": {
+    "lat": 23.61236,
+    "lon": 58.59381,
+    "nome_osm": "Mascate, ولاية مسقط, Mascate, Omã"
+  },
+  "Havana|cu": {
+    "lat": 23.1353,
+    "lon": -82.35896,
+    "nome_osm": "Havana, La Habana, 10000, Cuba"
+  },
+  "Abidjan|ci": {
+    "lat": 5.32036,
+    "lon": -4.01611,
+    "nome_osm": "Abidjã, Abidjan, Costa do Marfim"
+  },
+  "Dili|tl": {
+    "lat": -8.55368,
+    "lon": 125.57841,
+    "nome_osm": "Díli, Vera Cruz, Díli, Timor-Leste"
+  },
+  "Bissau|gw": {
+    "lat": 11.86132,
+    "lon": -15.58305,
+    "nome_osm": "Bissau, Bissau (setor autónomo), 1021, Guiné-Bissau"
+  },
+  "Port of Spain|tt": {
+    "lat": 10.65727,
+    "lon": -61.51802,
+    "nome_osm": "Porto Espanha, Trinidad e Tobago"
+  },
+  "Hanoi|vn": {
+    "lat": 21.02833,
+    "lon": 105.85404,
+    "nome_osm": "Hanói, Vietnã"
+  },
+  "Lagos|ng": {
+    "lat": 6.45506,
+    "lon": 3.39418,
+    "nome_osm": "Lagos, Lagos Island, Lagos, 100242, Nigéria"
+  },
+  "Concepción|py": {
+    "lat": -23.1775,
+    "lon": -57.1675,
+    "nome_osm": "Concepción, Región Oriental, Paraguai"
+  },
+  "Ankara|tr": {
+    "lat": 39.92078,
+    "lon": 32.85405,
+    "nome_osm": "Ancara, Çankaya, Ankara, İç Anadolu Bölgesi, 06420, Turquia"
+  },
+  "Ciudad Guayana|ve": {
+    "lat": 8.32238,
+    "lon": -62.68966,
+    "nome_osm": "Cidade Guayana, Parroquia Cachamay, Municipio Caroní, Bolívar, Venezuela"
+  },
+  "Manama|bh": {
+    "lat": 26.2235,
+    "lon": 50.58224,
+    "nome_osm": "Manama, Capital, 308, Bahrein"
+  },
+  "Nassau|bs": {
+    "lat": 25.07823,
+    "lon": -77.33834,
+    "nome_osm": "Nassau, New Providence, Bahamas"
+  },
+  "Kyiv|ua": {
+    "lat": 50.45003,
+    "lon": 30.52414,
+    "nome_osm": "Kiev, Ucrânia"
+  },
+  "Puerto Iguazú|ar": {
+    "lat": -25.6336,
+    "lon": -54.58292,
+    "nome_osm": "Puerto Iguazú, Porto Iguaçu, Departamento Iguazú, Misiones, Argentina"
+  },
+  "Río Branco|uy": {
+    "lat": -32.58869,
+    "lon": -53.37808,
+    "nome_osm": "Río Branco, Cerro Largo, 37100, Uruguai"
+  },
+  "Mumbai|in": {
+    "lat": 19.055,
+    "lon": 72.8692,
+    "nome_osm": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, Índia"
+  },
+  "Algiers|dz": {
+    "lat": 36.77293,
+    "lon": 3.05884,
+    "nome_osm": "Argel, Daïra Sidi M'Hamed, Argel, 16000, Argélia"
+  },
+  "Tunis|tn": {
+    "lat": 36.80021,
+    "lon": 10.18578,
+    "nome_osm": "Tunes, Túnis (província), Tunísia"
+  },
+  "Tehran|ir": {
+    "lat": 35.68925,
+    "lon": 51.3896,
+    "nome_osm": "Teerã, بخش مرکزی شهرستان تهران, شهرستان تهران, Teerã, Irã"
+  },
+  "Accra|gh": {
+    "lat": 5.55711,
+    "lon": -0.20124,
+    "nome_osm": "Acra, Korle-Klottey Municipal District, Grande Acra, Gana"
+  },
+  "Paso de los Libres|ar": {
+    "lat": -29.71366,
+    "lon": -57.08614,
+    "nome_osm": "Municipio de Paso de los Libres, Departamento Paso de los Libres, Corrientes, Argentina"
+  },
+  "Windhoek|na": {
+    "lat": -22.53356,
+    "lon": 17.04548,
+    "nome_osm": "Windhoek, Khomas, Namíbia"
+  },
+  "Dar es Salaam|tz": {
+    "lat": -6.81608,
+    "lon": 39.28036,
+    "nome_osm": "Dar es Salaam, Coastal Zone, Tanzânia"
+  },
+  "Port-au-Prince|ht": {
+    "lat": 18.54733,
+    "lon": -72.33959,
+    "nome_osm": "Porto Príncipe, Département de l'Ouest, Haiti"
+  },
+  "Kathmandu|np": {
+    "lat": 27.70832,
+    "lon": 85.32058,
+    "nome_osm": "Catmandu, काठमाडौं जिल्ला, बागमती प्रदेश, Nepal"
+  },
+  "Tripoli|ly": {
+    "lat": 32.89667,
+    "lon": 13.17779,
+    "nome_osm": "Trípoli, Líbia"
+  },
+  "Hong Kong|cn": {
+    "lat": 22.34924,
+    "lon": 114.18578,
+    "nome_osm": "Hong Kong, China"
+  },
+  "Framingham, Massachusetts|us": {
+    "lat": 42.27732,
+    "lon": -71.41659,
+    "nome_osm": "Framingham, Middlesex County, Massachusetts, Estados Unidos da América"
+  },
+  "Hyannis, Massachusetts|us": {
+    "lat": 41.65353,
+    "lon": -70.28233,
+    "nome_osm": "Hyannis, Barnstable, Barnstable County, Massachusetts, Estados Unidos da América"
+  },
+  "Hiroshima|jp": {
+    "lat": 34.39172,
+    "lon": 132.45176,
+    "nome_osm": "Hiroshima, Prefeitura de Hiroshima, Japão"
+  },
+  "Toyohashi|jp": {
+    "lat": 34.76912,
+    "lon": 137.39146,
+    "nome_osm": "豊橋市, Prefeitura de Aichi, Japão"
+  },
+  "Takaoka, Toyama|jp": {
+    "lat": 36.73621,
+    "lon": 137.01873,
+    "nome_osm": "高岡市, Prefeitura de Toyama, Japão"
+  },
+  "Suzuka, Mie|jp": {
+    "lat": 34.88171,
+    "lon": 136.58365,
+    "nome_osm": "鈴鹿市, Prefeitura de Mie, Japão"
+  },
+  "Oizumi, Gunma|jp": {
+    "lat": 36.24774,
+    "lon": 139.40542,
+    "nome_osm": "大泉町, 邑楽郡, Prefeitura de Gunma, Japão"
+  },
+  "Winnipeg, Manitoba|ca": {
+    "lat": 49.89554,
+    "lon": -97.13846,
+    "nome_osm": "Winnipeg, Manitoba, Canadá"
+  },
+  "Salt Lake City, Utah|us": {
+    "lat": 40.75962,
+    "lon": -111.8868,
+    "nome_osm": "Salt Lake City, Salt Lake County, Utah, Estados Unidos da América"
+  },
+  "Plano, Texas|us": {
+    "lat": 33.01368,
+    "lon": -96.69251,
+    "nome_osm": "Plano, Collin County, Texas, Estados Unidos da América"
+  },
+  "Hamburg|de": {
+    "lat": 53.55017,
+    "lon": 10.00132,
+    "nome_osm": "Hamburgo, Alemanha"
+  },
+  "Brisbane, Queensland|au": {
+    "lat": -27.46896,
+    "lon": 153.0235,
+    "nome_osm": "Brisbane, Queensland, Austrália"
+  },
+  "Köln|de": {
+    "lat": 50.93836,
+    "lon": 6.95997,
+    "nome_osm": "Colónia, Renânia do Norte-Vestfália, Alemanha"
+  },
+  "Calgary, Alberta|ca": {
+    "lat": 51.04561,
+    "lon": -114.05754,
+    "nome_osm": "Calgary, Alberta, Canadá"
+  },
+  "Québec, Québec|ca": {
+    "lat": 46.81374,
+    "lon": -71.20841,
+    "nome_osm": "Quebec, Agglomération de Québec, Capitale-Nationale, Quebec, Canadá"
+  },
+  "Esch-sur-Alzette|lu": {
+    "lat": 49.49596,
+    "lon": 5.98503,
+    "nome_osm": "Esch-sur-Alzette, Canton Esch-sur-Alzette, Luxemburgo"
+  },
+  "Zahlé|lb": {
+    "lat": 33.84771,
+    "lon": 35.9025,
+    "nome_osm": "زحلة, قضاء زحلة, Beca, 1801, Líbano"
+  },
+  "Melbourne, Victoria|au": {
+    "lat": -37.81425,
+    "lon": 144.96317,
+    "nome_osm": "Melbourne, Vitória, Austrália"
+  },
+  "Perth, Western Australia|au": {
+    "lat": -31.9559,
+    "lon": 115.86058,
+    "nome_osm": "Perth, Austrália Ocidental, 6000, Austrália"
+  },
+  "Göteborg|se": {
+    "lat": 57.70723,
+    "lon": 11.96702,
+    "nome_osm": "Gotemburgo, Göteborgs Stad, Västra Götalands län, 411 10, Suécia"
+  },
+  "Manchester|gb": {
+    "lat": 53.44246,
+    "lon": -2.23245,
+    "nome_osm": "Manchester, Grande Manchester, Inglaterra, Reino Unido"
+  },
+  "Dubai|ae": {
+    "lat": 25.26472,
+    "lon": 55.29241,
+    "nome_osm": "Dubai, دبي, Emirados Árabes Unidos"
+  },
+  "Gifu|jp": {
+    "lat": 35.42309,
+    "lon": 136.76275,
+    "nome_osm": "岐阜市, Prefeitura de Gifu, Japão"
+  },
+  "Culver City, California|us": {
+    "lat": 34.02112,
+    "lon": -118.39647,
+    "nome_osm": "Culver City, Los Angeles County, Califórnia, 90232, Estados Unidos da América"
+  }
+}

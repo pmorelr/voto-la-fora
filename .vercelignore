@@ -1,0 +1,9 @@
+# O que nunca sobe para a Vercel no deploy pela linha de comando.
+# Caminhos com "/" no início valem só para a raiz; sem a barra, "supabase/" pegaria também src/lib/supabase.
+.env
+.env*.local
+/supabase/
+/infra/
+/revisao-juridica-*.pdf
+/juridico/
+/voto-la-fora-documentos-legais-*.pdf

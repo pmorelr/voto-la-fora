@@ -1,0 +1,41 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "regions": [
+    "cdg1"
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.votolafora.com.br"
+        }
+      ],
+      "destination": "https://votolafora.com.br/",
+      "permanent": true
+    },
+    {
+      "source": "/:path+",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.votolafora.com.br"
+        }
+      ],
+      "destination": "https://votolafora.com.br/:path+",
+      "permanent": true
+    }
+  ],
+  "crons": [
+    {
+      "path": "/api/cron/diario",
+      "schedule": "0 7 * * *"
+    },
+    {
+      "path": "/api/cron/relatos",
+      "schedule": "0 14 26 10 *"
+    }
+  ]
+}

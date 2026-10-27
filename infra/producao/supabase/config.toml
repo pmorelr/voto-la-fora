@@ -1,0 +1,42 @@
+# Autenticação do projeto hospedado (produção). Só o que está declarado aqui é enviado; o resto fica como está.
+# Conferir antes:  pnpm exec supabase config diff --workdir infra/producao --project-ref <ref>
+# Enviar:          pnpm exec supabase config push --workdir infra/producao --project-ref <ref>
+# Captcha e SMTP não ficam aqui: as chaves secretas são coladas pelo Pedro no painel do Supabase.
+# templates/codigo.html é cópia de supabase/templates/codigo.html, porque a ferramenta não aceita arquivo fora
+# desta pasta. Ao mudar um, copie para o outro; `pnpm check:modelos` confere.
+project_id = "votalafora"
+
+[auth]
+site_url = "https://votolafora.com.br"
+additional_redirect_urls = ["https://votolafora.com.br/**", "https://www.votolafora.com.br/**", "https://votalafora.vercel.app/**"]
+enable_signup = true
+enable_anonymous_sign_ins = false
+enable_manual_linking = false
+
+[auth.email]
+enable_signup = true
+double_confirm_changes = true
+enable_confirmations = false
+secure_password_change = false
+max_frequency = "60s"
+otp_length = 6
+otp_expiry = 3600
+
+# Limites contra abuso. O login sai do servidor da Vercel, então os limites "por IP" valem para o site todo, salvo a
+# verificação do código, que repassa o IP de quem digitou (Sb-Forwarded-For; exige "IP address forwarding" ligado
+# no painel). email_sent é por hora, para o site todo; os outros, a cada 5 minutos. O Turnstile protege o pedido de
+# código. O config push não envia email_sent: ele é ajustado no painel (Authentication > Rate Limits).
+[auth.rate_limit]
+email_sent = 300
+sign_in_sign_ups = 300
+token_verifications = 60
+token_refresh = 1500
+
+# No plano gratuito, o Supabase só aceita modelo de e-mail próprio com SMTP próprio: envie depois do SMTP.
+[auth.email.template.magic_link]
+subject = "Seu código de acesso · Your sign-in code · Voto Lá Fora"
+content_path = "./supabase/templates/codigo.html"
+
+[auth.email.template.confirmation]
+subject = "Seu código de acesso · Your sign-in code · Voto Lá Fora"
+content_path = "./supabase/templates/codigo.html"
